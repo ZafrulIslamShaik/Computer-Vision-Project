@@ -20,4 +20,4 @@ This project implements affine transformation to align distorted images back to 
    - Document results for each case.
 
 ### Conclusion
-Explore affine transformations in image processing, optimizing alignment through mathematical techniques.
+Explored affine transformations in image processing, optimizing alignment through mathematical techniques.
